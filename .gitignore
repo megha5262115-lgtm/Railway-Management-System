@@ -1,0 +1,35 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.log
+target/
+build/
+out/
+bin/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+.project
+.classpath
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Replit
+.cache/
+.upm/
+
+# Environment
+.env.local
+.env.*.local
+
+# Keep lib folder for dependencies
+!lib/*.jar
